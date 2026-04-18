@@ -1,16 +1,16 @@
 # Laura Legro's Resume Project
 
 ## Overview
-This project is a personal resume for Laura Legro, showcasing her skills, experience, and education in a structured format. The resume is designed to present information in a clear and concise manner, suitable for potential employers and collaborators.
+This project is a personal resume for me, showcasingmy skills, experience, and education in a structured format. The resume is designed to present information in a clear and concise manner, suitable for potential employers and collaborators.
 
 ## How to View
-You can view the resume by visiting the live site hosted on GitHub Pages. The link will be provided here once deployed.
+You can view the resume by visiting the live site hosted on netlify. The link will be provided here once deployed.
 
 ## Tech Stack
 - HTML
 - CSS
 - JavaScript
-- GitHub Pages
+- Netlify
 
 ## Key Features
 - Responsive design for mobile and desktop viewing.
