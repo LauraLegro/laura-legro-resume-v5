@@ -1,7 +1,7 @@
 # Laura Legro's Resume Project
 
 ## Overview
-This project is a personal resume for me, showcasingmy skills, experience, and education in a structured format. The resume is designed to present information in a clear and concise manner, suitable for potential employers and collaborators.
+This project is a personal resume for me, showcasing my skills, experience, and education in a structured format. The resume is designed to present information in a clear and concise manner, suitable for potential employers and collaborators.
 
 ## How to View
 You can view the resume by visiting the live site hosted on netlify. The link will be provided here once deployed.
