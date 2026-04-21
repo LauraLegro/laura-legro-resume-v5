@@ -49,6 +49,7 @@ body.light .orb-1 {
 body.light .orb-2 {
   background: rgba(8, 145, 178, 0.06);
 }
+/* Tell the browser this is meant to print on one page */
 
 /* ── TOGGLE BUTTON ── */
 .theme-toggle {

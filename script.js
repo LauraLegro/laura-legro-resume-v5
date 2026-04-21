@@ -21,3 +21,4 @@ function toggleTheme() {
   label.textContent = isLight ? "DARK" : "LIGHT";
   icon.textContent = isLight ? "☀️" : "🌙";
 }
+// First get the full content height
